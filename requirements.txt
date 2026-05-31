@@ -1,0 +1,6 @@
+# PyObjC 依赖 — 兼容 Python 3.9 ~ 3.13
+# 不指定版本，让 pip 根据用户 Python 版本自动选择最佳兼容版本
+pyobjc-core
+pyobjc-framework-Cocoa
+pyobjc-framework-Quartz
+pyobjc-framework-ApplicationServices

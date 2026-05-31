@@ -14,7 +14,6 @@
   <a href="#使用说明">使用</a> |
   <a href="#从源码构建">构建</a> |
   <a href="#项目架构">架构</a> |
-  <a href="TUTORIAL.md">开源教程</a>
 </p>
 
 <p align="center">
